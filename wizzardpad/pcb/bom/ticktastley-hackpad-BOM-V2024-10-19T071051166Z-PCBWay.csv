@@ -1,0 +1,5 @@
+﻿Item #,Designator,Qty,Manufacturer,Mfg Part #,Description / Value,Package/Footprint,Type,Your Instructions / Notes
+"1","J1","1","","","Display Device","","",""
+"2","SW1,SW2,SW6,SW7,SW8","5","Cherry Americas LLC","MX1A-11NW","Switch","","",""
+"3","SW10","1","Alps Alpine","EC11E09244BS","Rotary Encoder","","",""
+"4","U3","1","Seeed Studios","102010428","Microcontroller","","",""

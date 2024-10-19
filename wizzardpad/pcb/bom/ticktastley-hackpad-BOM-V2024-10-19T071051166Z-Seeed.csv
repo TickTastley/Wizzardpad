@@ -1,0 +1,5 @@
+﻿Designator,Manufacturer Part Number or Seeed SKU,QTY,Link
+"J1","","1",""
+"SW1,SW2,SW6,SW7,SW8","MX1A-11NW","5","https://media.digikey.com/pdf/Data%20Sheets/Cherry%20PDFs/MX%20Series.pdf"
+"SW10","EC11E09244BS","1","https://www.mouser.com/datasheet/2/15/alps_alps-s-a0008379064-1-1733314.pdf"
+"U3","102010428","1","https://files.seeedstudio.com/wiki/XIAO-RP2040/res/rp2040_datasheet.pdf"

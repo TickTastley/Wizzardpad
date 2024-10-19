@@ -1,0 +1,5 @@
+﻿Component Description,QTY,Ref Des,Mfg P/N #,Manufacturer,Distributor P/N #
+"Display Device","1","J1","","",""
+"Switch","5","SW1,SW2,SW6,SW7,SW8","MX1A-11NW","Cherry Americas LLC",""
+"Rotary Encoder","1","SW10","EC11E09244BS","Alps Alpine",""
+"Microcontroller","1","U3","102010428","Seeed Studios",""
